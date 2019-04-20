@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-api" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-api/itmayiedu-shopp-api-member" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-api/itmayiedu-shopp-api-pay" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-common" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-eurekaserver" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-member" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-message" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-order" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-pay" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu-shopp-pc-web" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/itmayiedu_shopp-weixin" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-api" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-common" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-eurekaserver" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-member" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-message" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-order" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-pay" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan-shopp-pc-web" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/itmayiedu-shopp-parent/yaosiyuan_shopp-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-fastdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test‐freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-govern-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-base-filesystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-manage-course" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-manager-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc‐service‐manage‐cms‐client" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

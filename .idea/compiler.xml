@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-fastdfs" />
+        <module name="test-rabbitmq-consumer" />
+        <module name="test-rabbitmq-producer" />
+        <module name="test‐freemarker" />
+        <module name="xc-framework-common" />
+        <module name="xc-framework-model" />
+        <module name="xc-framework-utils" />
+        <module name="xc-govern-center" />
+        <module name="xc-service-api" />
+        <module name="xc-service-base-filesystem" />
+        <module name="xc-service-manage-course" />
+        <module name="xc-service-manager-cms" />
+        <module name="xc‐service‐manage‐cms‐client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-fastdfs" target="1.8" />
+      <module name="test-rabbitmq-consumer" target="1.8" />
+      <module name="test-rabbitmq-producer" target="1.8" />
+      <module name="test‐freemarker" target="1.8" />
+      <module name="travel" target="1.8" />
+      <module name="xc-framework-common" target="1.8" />
+      <module name="xc-framework-model" target="1.8" />
+      <module name="xc-framework-parent" target="1.8" />
+      <module name="xc-framework-utils" target="1.8" />
+      <module name="xc-govern-center" target="1.8" />
+      <module name="xc-service-api" target="1.8" />
+      <module name="xc-service-base-filesystem" target="1.8" />
+      <module name="xc-service-manage-course" target="1.8" />
+      <module name="xc-service-manager-cms" target="1.8" />
+      <module name="xc‐service‐manage‐cms‐client" target="1.8" />
+      <module name="yaosiyuan-shopp-api" target="1.8" />
+      <module name="yaosiyuan-shopp-common" target="1.8" />
+      <module name="yaosiyuan-shopp-eurekaserver" target="1.8" />
+      <module name="yaosiyuan-shopp-member" target="1.8" />
+      <module name="yaosiyuan-shopp-message" target="1.8" />
+      <module name="yaosiyuan-shopp-order" target="1.8" />
+      <module name="yaosiyuan-shopp-parent" target="1.8" />
+      <module name="yaosiyuan-shopp-pay" target="1.8" />
+      <module name="yaosiyuan-shopp-pc-web" target="1.8" />
+      <module name="yaosiyuan_shopp-weixin" target="1.8" />
+      <module name="ysy-shopp-api" target="1.8" />
+      <module name="ysy-shopp-api-member" target="1.8" />
+      <module name="ysy-shopp-api-pay" target="1.8" />
+      <module name="ysy-shopp-common" target="1.8" />
+      <module name="ysy-shopp-eurekaserver" target="1.8" />
+      <module name="ysy-shopp-member" target="1.8" />
+      <module name="ysy-shopp-message" target="1.8" />
+      <module name="ysy-shopp-order" target="1.8" />
+      <module name="ysy-shopp-pay" target="1.8" />
+      <module name="ysy-shopp-pc-web" target="1.8" />
+      <module name="ysy_shopp-weixin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
